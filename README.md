@@ -19,15 +19,15 @@ How can we predict the weight of a fish based on its physical measurements?
 - No missing values
 
 ## Variables in Our Full Model
-### - Y: Weight
+### Y: Weight
   - Weight of the fish measured in grams.
-### - Length 1
+### Length 1
   - Vertical length of the fish measured in cm.
-### - Length 2
+### Length 2
   - Diagonal length of the fish measured in cm.
-### - Length 3
+### Length 3
   - Cross length of the fish measured in cm.
-### - Height
+### Height
   - Height of the fish measured in cm.
 ### Width
   - Width of the fish measured in cm.
