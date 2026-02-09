@@ -1,4 +1,4 @@
-# Fish-Market-Analysis
+# Fish Market Analysis
 By: Gabrielle Coronel, Kyle Zemel, Uyen Tran
 
 ## Purpose
@@ -19,18 +19,12 @@ How can we predict the weight of a fish based on its physical measurements?
 - No missing values
 
 ## Variables in Our Full Model
-### Y: Weight
-  - Weight of the fish measured in grams.
-### Length 1
-  - Vertical length of the fish measured in cm.
-### Length 2
-  - Diagonal length of the fish measured in cm.
-### Length 3
-  - Cross length of the fish measured in cm.
-### Height
-  - Height of the fish measured in cm.
-### Width
-  - Width of the fish measured in cm.
+**Weight (Y)** - Weight of the fish measured in grams.
+**Length 1** - Vertical length of the fish measured in cm.
+**Length 2** - Diagonal length of the fish measured in cm.
+**Length 3** - Cross length of the fish measured in cm.
+**Height** - Height of the fish measured in cm.
+**Width** - Width of the fish measured in cm.
 
 ## Removed Data
 The Species column was removed because the purpose of this study is to develop a predictive model soley based on physical measurements that can estimate fish weight across species.
